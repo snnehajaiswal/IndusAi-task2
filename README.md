@@ -1,1 +1,1 @@
-# IndusAi-task2
+A responsive drum kit built with HTML, CSS, and JavaScript. Play sounds by pressing W, A, S, D, J, K, L or clicking buttons. Clone the repo, open index.html, and start drumming. Includes sound files and basic styling. 
